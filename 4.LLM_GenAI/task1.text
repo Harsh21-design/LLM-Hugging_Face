@@ -1,0 +1,39 @@
+1. GPT-2(Generative Pre-Trained Transformer)
+Use Cases-
+a. Text Generation
+b. Autocomplete Text
+c. Chat like response
+
+2.BERT(Bidirectional Encoder Representation from Transformer)
+Use Cases-
+a. Text Understanding
+b. Sentiment Analysis
+c. NER(Name Entity Recognition)-extract name, location, date
+
+3. Mistral AI(Mistral-7B/Mixtral-Mixture of Experts - 8x7B)
+Use Cases-
+a. Multilingual tasks(English, French, Spanish, German, and Italian) 
+b. Code Generation
+c. Summarization and translation
+
+4.LLama-3(Meta)
+Use Cases-
+a. Chatbots & virtual assistant
+b. content creation
+c. Data Analysis & Reporting
+
+5. Falcon LLM(7B/40B/180B)
+Use Cases- 
+a. Text classification
+b. Question-Answering
+c. Enterprise Application(business automate tasks, decision making etc.)
+
+| **Model**      | **Full Form / Creator**                                          | **Variants**                   | **Main Use Cases**                                                                               |
+| -------------- | ---------------------------------------------------------------- | ------------------------------ | -----------------------------------------------------------------------------------------------  |
+| **GPT-2**      | Generative Pre-trained Transformer (OpenAI)                      | GPT-2 (1.5B params)            | 🔹 Text Generation  🔹 Autocomplete Text  🔹 Chat-like Response                                 |
+| **BERT**       | Bidirectional Encoder Representations from Transformers (Google) | Base / Large                   | 🔹 Text Understanding  🔹 Sentiment Analysis  🔹 Named Entity Recognition (NER)                 |
+| **Mistral AI** | Mistral AI (Startup, France)                                     | Mistral-7B, Mixtral (8×7B MoE) | 🔹 Multilingual Tasks (EN, FR, ES, DE, IT)  🔹 Code Generation  🔹 Summarization & Translation  |
+| **LLaMA-3**    | Large Language Model Meta AI (Meta)                              | 7B, 13B, 70B+                  | 🔹 Chatbots & Virtual Assistants  🔹 Content Creation  🔹 Data Analysis & Reporting             |
+| **Falcon**     | Technology Innovation Institute (UAE)                            | 7B, 40B, 180B                  | 🔹 Text Classification  🔹 Question Answering  🔹 Enterprise Apps (automation, decision-making) |
+
+
